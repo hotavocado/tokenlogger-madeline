@@ -32,7 +32,7 @@
             "schema:name": "Ready to leave for school on time",
             "@type": "schema:option",
             "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/tokenlogger-images/main/png/school_ready15.png",
-            "schema:value": 5
+            "schema:value": 2
         }]
     }
 }

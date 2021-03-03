@@ -1,6 +1,6 @@
 {
     "@context": [ "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/hotavocado/tokenlogger-john/master/activities/TokenActivity_behavior/TokenActivity_behavior_context"
+        "https://raw.githubusercontent.com/hotavocado/tokenlogger-madeline/master/activities/TokenActivity_behavior/TokenActivity_behavior_context"
     ],
     "@type": "reproschema:Activity",
     "@id": "TokenActivity_behavior_schema",

@@ -18,20 +18,20 @@
         "multipleChoice": true,
         "choices": [{
             "@type": "schema:option",
-            "schema:name": "Got ready for school appropriately",
-            "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/tokenlogger-images/main/png/school_ready.png",
+            "schema:name": "Exercised for 15 minutes",
+            "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/tokenlogger-images/main/png/exercise_time.png",
             "schema:value": 5
         },
         {
-            "schema:name": "Completed work in school appropriately",
+            "schema:name": "Practiced viola for 15 minutes",
             "@type": "schema:option",
-            "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/tokenlogger-images/main/png/school_work.png",
+            "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/tokenlogger-images/main/png/viola_time.png",
             "schema:value": 5
         },
         {
-            "schema:name": "Completed homework appropriately",
+            "schema:name": "Ready to leave for school on time",
             "@type": "schema:option",
-            "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/tokenlogger-images/main/png/homework_time.png",
+            "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/tokenlogger-images/main/png/school_ready15.png",
             "schema:value": 5
         }]
     }

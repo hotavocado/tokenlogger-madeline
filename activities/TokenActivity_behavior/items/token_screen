@@ -30,6 +30,12 @@
             "@type": "schema:option",
             "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/tokenlogger-images/main/png/school_ready15.png",
             "schema:value": 2
+        },
+        {
+            "schema:name": "Completed morning routine",
+            "@type": "schema:option",
+            "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/tokenlogger-images/main/png/breakfast1.png",
+            "schema:value": 2
         }]
     }
 }
